@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">97Cartes</string>
+    <string name="txt_nbCartes">0</string>
+    <string name="txt_Temps">0</string>
+    <string name="txt_Score">0</string>
+    <string name="txt_bestScore">0</string>
+    <string name="txt_carte1">1</string>
+    <string name="txt_carte2">1</string>
+    <string name="txt_carte3">1</string>
+    <string name="txt_carte4">1</string>
+    <string name="txt_carte5">1</string>
+    <string name="txt_carte6">1</string>
+    <string name="txt_carte7">1</string>
+    <string name="txt_carte8">1</string>
+</resources>
